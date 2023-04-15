@@ -116,14 +116,14 @@
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=yashrajbothra&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />  
+<img src="https://github-readme-stats.vercel.app/api?username=yashrajbothra&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%; margin-bottom: 90px;" />  
 
-<br/>  
+<br/>
+<br/>
 
 
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31sthpwtiqgupetqrdj56h4oapp4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" /></div>  
+## Now Playing
+<div align="center" ><img src="https://spotify-github-profile.vercel.app/api/view?uid=31sthpwtiqgupetqrdj56h4oapp4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" /></div>  
 
 <br/>  
 
