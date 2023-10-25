@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Yash Bothra, a full-time full-stack freelance developer 👨‍💻 working in tech since 2018 🚀</div>  
+### <div align="center">I'm Yash Bothra, a full-stack developer 👨‍💻 working in tech since 2018 🚀</div>  
   
 
 - 🔭 I’m currently working on [Kointrack](https://kointrack.com/)  
